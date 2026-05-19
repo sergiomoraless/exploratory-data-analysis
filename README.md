@@ -43,7 +43,7 @@ and time periods were most affected.
 eda-layoffs/
 ├── README.md
 └── scripts/
-    └── eda.sql
+    └── Exploratory Data Analysis.sql
 ```
 
 ## Tools
