@@ -8,7 +8,7 @@ and time periods were most affected.
 ## Dataset
 - **Source**: Tech layoffs data (cleaned in the companion project)
 - **Period covered**: Queried using MIN/MAX date from the dataset
-- **Table used**: `layoffs_staging2` (post-cleaning)
+- **Table used**: `layoffs_cleaned`
 
 ## Questions Explored
 
