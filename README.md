@@ -51,4 +51,4 @@ eda-layoffs/
 - MySQL Workbench
 
 ## Related Project
-[Data Cleaning — same dataset](https://github.com/TU_USUARIO/data-cleaning-layoffs)
+[Data Cleaning — same dataset](https://github.com/sergiomoraless/data-cleaning-layoffs)
